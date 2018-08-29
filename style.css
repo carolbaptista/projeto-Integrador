@@ -1,0 +1,104 @@
+h1{
+    color: #f00;
+}
+body{
+    margin: 0px;
+
+    
+}
+.topo{
+    background-color: #20C073;
+    color: black;
+    height: 80px;
+}
+
+.content-page{
+    margin: auto;
+    width: 900px;
+}
+
+.nav-principal ul li{
+	display:inline-block;
+	list-style:none;
+	
+}
+.nav-principal ul a{
+	text-decoration: none;
+	padding:10px;
+	display:block;
+	color:#000;
+	
+}
+.nav-principal{
+	background-color: #444;
+	margin-top: -20px;
+	
+}
+
+.nav-principal ul a:hover{
+	color: white;
+	background-color:black;
+
+}
+
+ #local-sidebar{
+ 	color: white;
+	float: right;
+	background-color: black;
+	text-decoration: none;
+ }
+ #sidebar{
+ 	color: #20C073;
+	float: right;
+	background-color: #3C4142;
+	text-decoration: none;
+	border-radius: 20px;
+
+ }
+	
+.footer{
+	position:relative;
+    bottom:0;
+    width:100%;
+    background-color: #20C073;
+    padding: 7px;
+    border: solid 2px #3C4142; 
+    border-radius: 20px;
+
+}	
+#get_attachment_link{
+	text-decoration: none;
+}
+	
+#searchsubmit{
+	border-radius: 5px;
+	background-color: #20C073;
+}
+#s{
+	border-radius: 5px;
+}
+
+.navbar-brand{
+	color: #20C073;
+}
+	
+.card-body{
+
+	border-radius: 50;
+}	
+	
+	
+.card-header a{
+	color: white !important;
+	text-decoration: none;
+}
+
+#sidebar a{
+	color: white !important;
+	text-decoration: none;
+}
+
+h5 .card-title a a{
+	color: white !important;
+	text-decoration: none;
+}
